@@ -64,5 +64,4 @@ public class Teachers {
 	public void setSalary(int salary){
 		this.salary = salary;
     }
-	// Last vid min: 43:02
 }
