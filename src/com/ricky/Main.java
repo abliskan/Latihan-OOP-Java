@@ -43,8 +43,5 @@ public class Main {
 		vanderhorn.receiveSalary(vanderhorn.getSalary());
 		System.out.println("GHS has spent for salary to " + vanderhorn.getName() 
 		+ " and now has $" + ghs.getTotalMoneyEarned());
-		
-		System.out.println(rakshith);
-		System.out.println(tamasha);
 	}
 }
