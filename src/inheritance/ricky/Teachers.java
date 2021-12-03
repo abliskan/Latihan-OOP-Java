@@ -1,4 +1,4 @@
-package com.ricky;
+package inheritance.ricky;
 
 /**
  * @author Ricky Suhanry on 23/11/2020

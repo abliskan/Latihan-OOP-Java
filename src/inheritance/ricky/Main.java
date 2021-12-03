@@ -1,4 +1,4 @@
-package com.ricky;
+package inheritance.ricky;
 
 import java.util.ArrayList;
 import java.util.List;
