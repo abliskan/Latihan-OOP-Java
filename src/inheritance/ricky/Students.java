@@ -1,4 +1,4 @@
-package com.ricky;
+package inheritance.ricky;
 
 public class Students {
 	private int id;
